@@ -30,7 +30,7 @@ npm install --save-dev @faker-js/faker
 
 # Headless mode
 To run the test in headless mode use:
-npx cypress run --brower chrome
+npx cypress run --browser chrome
 
 # Visual mode
 To run the test in visual mode use:
