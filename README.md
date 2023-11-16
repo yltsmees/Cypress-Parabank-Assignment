@@ -16,7 +16,11 @@ Check with terminal that Node.js is installed by using command
 
 Check with terminal that NPM is installed by using command 
 ”npm --version”
+
 ```bash
+# Git clone
+git clone https://github.com/yltsmees/Cypress-Parabank-Assignment.git
+cd Cypress-Parabank-Assignment
 
 # Install Cypress
 npm install cypress --save-dev
@@ -32,3 +36,6 @@ npx cypress run --brower chrome
 To run the test in visual mode use:
 npx cypress open
 and pick E2E and Chrome
+
+# Test location
+You can find them in /cypress/e2e/Parabank Website.cy.js
