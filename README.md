@@ -24,9 +24,11 @@ npm install cypress --save-dev
 # Faker for fake data
 npm install --save-dev @faker-js/faker
 
+# Headless mode
 To run the test in headless mode use:
 npx cypress run --brower chrome
 
+# Visual mode
 To run the test in visual mode use:
 npx cypress open
 and pick E2E and Chrome
