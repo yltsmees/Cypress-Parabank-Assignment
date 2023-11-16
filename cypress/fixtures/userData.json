@@ -1,0 +1,23 @@
+{
+    "oldUser": {
+      "firstName": "Margus",
+      "lastName": "Kask",
+      "street": "Kuuse 8",
+      "city": "Tartu",
+      "state": "Tartumaa",
+      "zipCode": "54321",
+      "phoneNumber": "8765-4321",
+      "ssn": "987654321"
+    },
+    "newUser": {
+      "firstName": "Jüri",
+      "lastName": "Tamm",
+      "street": "Kännu põik",
+      "city": "Tallinn",
+      "state": "Harjumaa",
+      "zipCode": "12345",
+      "phoneNumber": "1234-5678",
+      "ssn": "123456789"
+    }
+}
+  
