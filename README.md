@@ -29,4 +29,4 @@ npx cypress run --brower chrome
 
 To run the test in visual mode use:
 npx cypress open
-and pick E2E 
+and pick E2E and Chrome
