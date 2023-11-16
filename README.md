@@ -28,5 +28,5 @@ To run the test in headless mode use:
 npx cypress run --brower chrome
 
 To run the test in visual mode use:
-npx cypress run
+npx cypress open
 and pick E2E 
